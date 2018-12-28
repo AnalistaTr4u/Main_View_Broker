@@ -27,7 +27,7 @@ body {
 
 ::-webkit-scrollbar-thumb {
 	cursor: pointer;
-	background: #5dc560;
+	background: #F0E952;
 }
 
 * {
@@ -192,23 +192,23 @@ a:active{
 }
 
 a:hover{
-	color:#3b933d;
+	color:#F0E952;
 	text-decoration: none;
 }
 
 
 ::selection{
-	background-color:#5dc560;
+	background-color:#F0E952;
 	color:#fff;
 }
 
 -webkit-::selection{
-	background-color:#5dc560;
+	background-color:#F0E952;
 	color:#fff;
 }
 
 ::-moz-selection{
-	background-color:#5dc560;
+	background-color:#F0E952;
 	color:#fff;
 }
 
@@ -220,7 +220,7 @@ a:hover{
 	display: inline-block;
 	width: 70px;
 	height: 70px;
-	fill:#5dc560;
+	fill:#F0E952;
 }
 
 .icon-round{
@@ -228,7 +228,7 @@ a:hover{
 	text-align: center;
 	width: 70px;
 	height: 70px;
-	border:1px solid #3b933d;
+	border:1px solid #F0E952;
 	border-radius: 50%;
 }
 
@@ -359,10 +359,10 @@ input:-webkit-autofill {
 
 .btn{
 	display: inline-block;
-	border:1px solid #3b933d;
+	border:1px solid #F0E952;
 	padding:7px 25px 9px;
 	border-radius: 25px;
-	color:#3b933d;
+	color:#F0E952;
 	text-decoration: none;
 	font-size: 16px;
 }
@@ -380,7 +380,7 @@ input:-webkit-autofill {
 .btn:focus{
 	text-decoration: none;
 	color:#fff;
-	background: #3b933d;
+	background: #F0E952;
 }
 
 .btn:focus{
@@ -389,43 +389,43 @@ input:-webkit-autofill {
 }
 
 .btn-primary{
-	background: #3b933d;
+	background: #F0E952;
 	border-color:transparent;
 	color:#fff;
 }
 
 .btn-primary:hover,
 .btn-primary:focus{
-	color:#3b933d;
-	border:1px solid #3b933d;
+	color:#F0E952;
+	border:1px solid #F0E952;
 	background-color:transparent;
 }
 
 .btn-primary-light{
-	background: #5dc560;
+	background: #F0E952;
 	border-color:transparent;
 	color:#fff;
 }
 
 .btn-primary-light:hover,
 .btn-primary-light:focus{
-	color:#5dc560;
-	border:1px solid #5dc560;
+	color:#F0E952;
+	border:1px solid #F0E952;
 	background-color:transparent;
 }
 
 .btn-b-primary{
-	color:#3b933d;
+	color:#F0E952;
 }
 
 .btn-b-primary-light{
-	color:#5dc560;
-	border:1px solid #5dc560;
+	color:#F0E952;
+	border:1px solid #F0E952;
 }
 
 .btn-b-primary-light:hover,
 .btn-b-primary-light:focus{
-	background-color: #5dc560;
+	background-color: #F0E952;
 }
 
 .btn-b-white{
@@ -611,11 +611,11 @@ input:-webkit-autofill {
 }
 
 .bgc-primary{
-	background-color: #3b933d;
+	background-color: #F0E952;
 }
 
 .bgc-primary-light{
-	background-color:#5dc560;
+	background-color:#F0E952;
 }
 
 .bgc-light{
@@ -627,11 +627,11 @@ input:-webkit-autofill {
 /* ------------------------------------------------------------------------------- */
 
 .c-primary{
-	color:#3b933d;
+	color:#F0E952;
 }
 
 .c-primary-light{
-	color:#5dc560;
+	color:#F0E952;
 }
 
 .c-white{
@@ -718,7 +718,7 @@ address.phone{
 }
 
 .navbar-nav > .active{
-	color:#5dc560;
+	color:#F0E952;
 }
 
 .navbar-nav > li > a{
@@ -850,7 +850,7 @@ blockquote{
 
 .feature-carousel .number{
 	font-size: 17px;
-	color:#5dc560;
+	color:#F0E952;
 }
 
 .feature-carousel .number span{
@@ -1012,7 +1012,7 @@ blockquote{
 
 .product-features .column-inner{
 	text-align: center;
-	background-color: rgba(59,147,61,1);
+	background-color: #F0E952;
 	color:#fff;
 	border:1px solid rgba(255,255,255,0.1);
 }
@@ -1262,7 +1262,7 @@ blockquote{
 	height: 60px;
 	margin-left: -30px;
 	border-radius: 50%; 
-	background-color:#3b933d;
+	background-color:#F0E952;
 	text-align: center;
 	cursor: pointer;
 }
@@ -1437,7 +1437,7 @@ blockquote{
 	.feature-carousel .owl-item.centred .carousel-item{
 	position: relative;
 	height: 400px;
-	border:3px solid #5dc560;
+	border:3px solid #F0E952;
 	border-width: 3px 0;
 	padding:80px 35px;
 	}
@@ -1447,7 +1447,7 @@ blockquote{
 	position: absolute;
 	top:0;
 	left: 0;
-	border-left: 3px solid #5dc560;
+	border-left: 3px solid #F0E952;
 	height: 110px;
 	}
 
@@ -1456,7 +1456,7 @@ blockquote{
 	position: absolute;
 	top:0;
 	right: 0;
-	border-right: 3px solid #5dc560;
+	border-right: 3px solid #F0E952;
 	height: 110px;
 	}
 
@@ -1465,7 +1465,7 @@ blockquote{
 	top:195px;
 	left:0;
 	bottom: 0;
-	border-left: 3px solid #5dc560;
+	border-left: 3px solid #F0E952;
 	}
 
 	.feature-carousel .owl-item.centred .border-right{
@@ -1473,7 +1473,7 @@ blockquote{
 	top:195px;
 	right: 0;
 	bottom: 0;
-	border-right: 3px solid #5dc560;
+	border-right: 3px solid #F0E952;
 	}
 
 	.feature-carousel .owl-item.centred .number{
