@@ -25,7 +25,8 @@ SECRET_KEY = '70%w#c$(689vgfh*7ey^#@@pb+d+)h-6djrpm6*1glivti9ymd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['trade4u.com', 'trade4u.co', '35.231.79.212']
+#ALLOWED_HOSTS = ['trade4u.com', 'trade4u.co', '35.231.79.212']
+ALLOWED_HOSTS = []
 
 
 # Application definition
