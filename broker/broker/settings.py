@@ -25,7 +25,7 @@ SECRET_KEY = '70%w#c$(689vgfh*7ey^#@@pb+d+)h-6djrpm6*1glivti9ymd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['trade4u.com', 'trade4u.co', '35.231.79.212']
 
 
 # Application definition
@@ -119,6 +119,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
+STATIC_ROOT = '/home/analista_sistemas1/Main_View_Broker/broker/static/'
 STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
